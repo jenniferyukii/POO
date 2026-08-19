@@ -1,4 +1,4 @@
 package bancoDados;
 
-public class Main {
+public class Despesa {
 }
